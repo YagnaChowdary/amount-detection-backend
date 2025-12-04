@@ -1,0 +1,6 @@
+Flask>=2.0
+pytesseract>=0.3.10
+Pillow>=9.0
+
+# pytesseract and tesseract binary required only for image OCR
+# If you only use text input, you can omit pytesseract and Pillow.
